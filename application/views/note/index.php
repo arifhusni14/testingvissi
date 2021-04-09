@@ -132,6 +132,7 @@
 		}
 
         function deleteNote(id){
+        	confirm("Apakah Anda yakin ingin menghapus catatan ini?");
 			let base_url = '<?php echo base_url() ?>';
         	$.ajax({
 	            url: base_url + 'note/delete',

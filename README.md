@@ -4,3 +4,5 @@
 - Sesuaikan $config['base_url'], di application/config/config.php dengan url di server yang dipakai
 - Import testingvissi.sql ke database yang dipakai
 - Sesuaikan hostname, username, password, dan database di application/config/database.php dengan credential database di server yang dipakai
+
+update fitur #1
